@@ -29,6 +29,7 @@ group :test, :development do
   gem 'guard-rspec'
   gem 'ruby_gntp'
   gem 'rb-fsevent'
+  gem 'launchy'
 end
 
 # To use ActiveModel has_secure_password
